@@ -1,0 +1,25 @@
+body {
+    max-width: 1920px;
+    width: 100%;
+
+    text-align: center;
+    font-size: 15px;
+    font-family: serif;
+
+    display: block;
+    box-sizing: border-box;
+}
+.titleLes {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 25px;
+    border: 1px #00c3ff solid;
+    border-radius: 15px;
+    border-style: dotted;
+}
+
+
+.titleLes > span {
+    color: rgb(164, 164, 59);
+    text-decoration: underline;
+}
